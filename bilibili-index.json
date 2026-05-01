@@ -1,0 +1,259 @@
+{
+  "updatedAt": "2026-05-01T00:31:03.491Z",
+  "latestIssueNumber": 42,
+  "latestIssueTitle": "第42期",
+  "issues": [
+    {
+      "issueId": "409500",
+      "issueNumber": 42,
+      "title": "第42期",
+      "file": "b42.json"
+    },
+    {
+      "issueId": "409477",
+      "issueNumber": 41,
+      "title": "第41期",
+      "file": "b41.json"
+    },
+    {
+      "issueId": "409462",
+      "issueNumber": 40,
+      "title": "第40期",
+      "file": "b40.json"
+    },
+    {
+      "issueId": "409448",
+      "issueNumber": 39,
+      "title": "第39期",
+      "file": "b39.json"
+    },
+    {
+      "issueId": "409426",
+      "issueNumber": 38,
+      "title": "第38期",
+      "file": "b38.json"
+    },
+    {
+      "issueId": "409421",
+      "issueNumber": 37,
+      "title": "第37期",
+      "file": "b37.json"
+    },
+    {
+      "issueId": "409415",
+      "issueNumber": 36,
+      "title": "第36期",
+      "file": "b36.json"
+    },
+    {
+      "issueId": "409392",
+      "issueNumber": 35,
+      "title": "第35期",
+      "file": "b35.json"
+    },
+    {
+      "issueId": "409388",
+      "issueNumber": 34,
+      "title": "第34期",
+      "file": "b34.json"
+    },
+    {
+      "issueId": "409376",
+      "issueNumber": 33,
+      "title": "第33期",
+      "file": "b33.json"
+    },
+    {
+      "issueId": "409370",
+      "issueNumber": 32,
+      "title": "第32期",
+      "file": "b32.json"
+    },
+    {
+      "issueId": "409366",
+      "issueNumber": 31,
+      "title": "第31期",
+      "file": "b31.json"
+    },
+    {
+      "issueId": "409355",
+      "issueNumber": 30,
+      "title": "第30期",
+      "file": "b30.json"
+    },
+    {
+      "issueId": "409339",
+      "issueNumber": 29,
+      "title": "第29期",
+      "file": "b29.json"
+    },
+    {
+      "issueId": "409296",
+      "issueNumber": 28,
+      "title": "第28期",
+      "file": "b28.json"
+    },
+    {
+      "issueId": "409277",
+      "issueNumber": 27,
+      "title": "第27期",
+      "file": "b27.json"
+    },
+    {
+      "issueId": "409267",
+      "issueNumber": 26,
+      "title": "第26期",
+      "file": "b26.json"
+    },
+    {
+      "issueId": "409254",
+      "issueNumber": 25,
+      "title": "第25期",
+      "file": "b25.json"
+    },
+    {
+      "issueId": "409244",
+      "issueNumber": 24,
+      "title": "第24期",
+      "file": "b24.json"
+    },
+    {
+      "issueId": "409210",
+      "issueNumber": 23,
+      "title": "第23期",
+      "file": "b23.json"
+    },
+    {
+      "issueId": "409190",
+      "issueNumber": 22,
+      "title": "第22期",
+      "file": "b22.json"
+    },
+    {
+      "issueId": "409157",
+      "issueNumber": 21,
+      "title": "第21期",
+      "file": "b21.json"
+    },
+    {
+      "issueId": "409126",
+      "issueNumber": 20,
+      "title": "第20期",
+      "file": "b20.json"
+    },
+    {
+      "issueId": "409117",
+      "issueNumber": 19,
+      "title": "第19期",
+      "file": "b19.json"
+    },
+    {
+      "issueId": "409083",
+      "issueNumber": 18,
+      "title": "第18期",
+      "file": "b18.json"
+    },
+    {
+      "issueId": "409061",
+      "issueNumber": 17,
+      "title": "第17期",
+      "file": "b17.json"
+    },
+    {
+      "issueId": "409039",
+      "issueNumber": 16,
+      "title": "第16期",
+      "file": "b16.json"
+    },
+    {
+      "issueId": "408979",
+      "issueNumber": 15,
+      "title": "第15期",
+      "file": "b15.json"
+    },
+    {
+      "issueId": "408955",
+      "issueNumber": 14,
+      "title": "第14期",
+      "file": "b14.json"
+    },
+    {
+      "issueId": "408932",
+      "issueNumber": 13,
+      "title": "第13期",
+      "file": "b13.json"
+    },
+    {
+      "issueId": "408928",
+      "issueNumber": 12,
+      "title": "第12期",
+      "file": "b12.json"
+    },
+    {
+      "issueId": "408918",
+      "issueNumber": 11,
+      "title": "第11期",
+      "file": "b11.json"
+    },
+    {
+      "issueId": "408890",
+      "issueNumber": 10,
+      "title": "第10期",
+      "file": "b10.json"
+    },
+    {
+      "issueId": "408873",
+      "issueNumber": 9,
+      "title": "第9期",
+      "file": "b9.json"
+    },
+    {
+      "issueId": "408635",
+      "issueNumber": 8,
+      "title": "第8期",
+      "file": "b8.json"
+    },
+    {
+      "issueId": "408608",
+      "issueNumber": 7,
+      "title": "第7期",
+      "file": "b7.json"
+    },
+    {
+      "issueId": "408594",
+      "issueNumber": 6,
+      "title": "第6期",
+      "file": "b6.json"
+    },
+    {
+      "issueId": "408567",
+      "issueNumber": 5,
+      "title": "第5期",
+      "file": "b5.json"
+    },
+    {
+      "issueId": "408557",
+      "issueNumber": 4,
+      "title": "第4期",
+      "file": "b4.json"
+    },
+    {
+      "issueId": "408540",
+      "issueNumber": 3,
+      "title": "第3期",
+      "file": "b3.json"
+    },
+    {
+      "issueId": "408526",
+      "issueNumber": 2,
+      "title": "第2期",
+      "file": "b2.json"
+    },
+    {
+      "issueId": "408525",
+      "issueNumber": 1,
+      "title": "第1期",
+      "file": "b1.json"
+    }
+  ]
+}
